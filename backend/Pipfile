@@ -8,9 +8,10 @@ django = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
 tzdata = "*"
-mysql-connector-python = "==8.0.26"
+mysql-connector-python = "*"
+mysqlclient = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.10"
+python_version = "*"
