@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['172.31.39.144', 'dccmusiclibrarybackend-env.eba-xevmbssv.us-east-2.elasticbeanstalk.com']
 
 
 # Application definition
